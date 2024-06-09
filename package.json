@@ -176,7 +176,7 @@
     "svg-captcha": "^1.4.0",
     "swagger-ui-express": "^4.1.4",
     "ts-node-dev": "^1.1.6",
-    "unzipper": "0.9.15",
+    "unzipper": "0.12.1",
     "winston": "^3.3.3",
     "yaml-schema-validator": "^1.2.2",
     "z85": "^0.0.2"
