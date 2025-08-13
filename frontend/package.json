@@ -16,7 +16,7 @@
     "@angular-material-extensions/password-strength": "^6.0.0",
     "@angular/animations": "^15.0.4",
     "@angular/cdk": "^14.0.4",
-    "@angular/cli": "^15.0.4",
+    "@angular/cli": "^18.1.0",
     "@angular/common": "^15.0.4",
     "@angular/compiler": "^15.0.4",
     "@angular/compiler-cli": "^15.0.4",
