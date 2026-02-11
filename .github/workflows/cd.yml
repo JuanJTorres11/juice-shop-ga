@@ -7,7 +7,7 @@ on:
         description: "Proveedor Cloud"
         required: true
         default: "AWS"
-        options: ["AWS", "GCP", "Azure"]
+        options: ["AWS", "GCP", "Azure","Test"]
 jobs:
   aws:
     runs-on: ubuntu-latest
